@@ -1,16 +1,131 @@
-# React + Vite
+# Modern UI — Customer Segmentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React UI concept for a digital banking platform, focused on presenting prospective customer segments and their perspectives through a clean, card-based interface.
 
-Currently, two official plugins are available:
+> **UI-only project:** This project is focused on frontend design and user experience. Buttons, navigation elements, and customer states are visual UI elements only and are not connected to real functionality, data, or backend services.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Preview
 
-## React Compiler
+The interface explores how a digital banking platform could present different customer perspectives and satisfaction segments.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The design includes:
 
-## Expanding the ESLint configuration
+* Customer profile cards with imagery
+* Satisfied and unsatisfied customer segments
+* Customer-focused messaging
+* Visual CTA and navigation elements
+* Large typography and clear visual hierarchy
+* Clean, modern fintech-inspired layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Modern UI Preview](./screenshots/image.png)
+
+
+## 🎯 Concept
+
+The interface is built around the idea of understanding customers better and presenting different customer perspectives in a simple visual format.
+
+The main message of the UI is:
+
+> **Know Your Customers. Build Better Experiences.**
+
+The customer segments are represented through different perspectives, such as satisfied and unsatisfied experiences, to create a more engaging presentation of the concept.
+
+## 🛠️ Tech Stack
+
+* **React**
+* **Vite**
+* **JavaScript / JSX**
+* **CSS**
+* **ESLint**
+* **npm**
+
+## 📁 Project Structure
+
+```text
+modern-ui/
+├── public/
+│   └── icon.png
+│
+├── src/
+│   ├── components/
+│   │   └── Section1/
+│   │       ├── Arrow.jsx
+│   │       ├── HeroText.jsx
+│   │       ├── LeftContent.jsx
+│   │       ├── Navbar.jsx
+│   │       ├── Page1Content.jsx
+│   │       ├── RightCard.jsx
+│   │       ├── RightCardContent.jsx
+│   │       ├── RightContent.jsx
+│   │       └── Section1.jsx
+│   │
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/MohdZaid001/modern-ui.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd modern-ui
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local development URL shown in your terminal.
+
+Usually:
+
+```text
+http://localhost:5173
+```
+
+## 📜 Available Scripts
+
+| Command           | Description                        |
+| ----------------- | ---------------------------------- |
+| `npm run dev`     | Starts the Vite development server |
+| `npm run build`   | Creates a production build         |
+| `npm run preview` | Previews the production build      |
+| `npm run lint`    | Runs ESLint                        |
+
+## 🎨 Design
+
+The UI follows a modern fintech-inspired visual direction with an emphasis on simplicity, typography, spacing, and visual hierarchy.
+
+
+## 👨‍💻 Author
+
+**Mohd Zaid**
+
+A React UI project created to practice modern frontend development, component architecture, CSS styling, and interface design.
+
+## 📄 License
+
+This project is intended for learning and portfolio purposes.

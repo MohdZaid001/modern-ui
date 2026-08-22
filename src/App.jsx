@@ -6,18 +6,18 @@ const user = [
   {
     img: "https://media.istockphoto.com/id/1386479261/photo/happy-excited-young-black-business-woman-professional-head-shot-portrait.jpg?s=612x612&w=0&k=20&c=LE5y0TE8iTErP7mKt5gJ38TIWiXJH7Q2mAovSto-zRc=",
 
-    intro: "I am here to say that the services provided by this company were not up to my expectations.",
+    intro: "The service has made managing my finances simple and convenient. Everything feels clear and easy to use.",
     tag: "Satisfied"
   },
   {
     img: "https://media.istockphoto.com/id/1475454238/video/meeting-presentation-and-applause-with-a-business-woman-in-celebration-of-reaching-a-goal-or.jpg?s=640x640&k=20&c=DBWcU8HYWpXHBzCXxdcLsSNs1qQthnGcpIKZzIBHvE4=",
-    intro: "I am a professional woman and I am very happy with the services provided by this company.",
+    intro: "I value the seamless experience and the flexibility these services provide for managing my financial needs.",
     tag: "Satisfied"
   },
   {
     img: "https://imgs.search.brave.com/yRlqz7zNupM_FYKmBRUi8b_jlkGL_emfyAH1d25LME4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjE4/NzY3MzAyOC9waG90/by9wb3J0cmFpdC1v/Zi1idXNpbmVzc3dv/bWFuLWluLXRoZS1v/ZmZpY2UuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTZMWW8w/M3g5Vk1ia0lvSWJY/enk0WXdWek9tdXF5/em9ybnpCT1c5cTRL/VTA9",
 
-    intro: "I am not satisfied with the services provided by this company.",
+    intro: "The experience hasn't fully met my expectations. There is still room to make the service more intuitive and responsive.",
     tag: "Unsatisfied"
   },
   {
