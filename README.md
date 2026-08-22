@@ -106,15 +106,6 @@ Usually:
 http://localhost:5173
 ```
 
-## 📜 Available Scripts
-
-| Command           | Description                        |
-| ----------------- | ---------------------------------- |
-| `npm run dev`     | Starts the Vite development server |
-| `npm run build`   | Creates a production build         |
-| `npm run preview` | Previews the production build      |
-| `npm run lint`    | Runs ESLint                        |
-
 ## 🎨 Design
 
 The UI follows a modern fintech-inspired visual direction with an emphasis on simplicity, typography, spacing, and visual hierarchy.
